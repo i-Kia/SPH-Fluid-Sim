@@ -1,3 +1,3 @@
 # SPH-Fluid-Sim
 
-The SPH method (Smoothed Particle Hydrodynamics)
+The SPH method (Smoothed Particle Hydrodynamics) is mesh-free method for simulating various mechanics such as fluid dynamics or solid mechanics.
